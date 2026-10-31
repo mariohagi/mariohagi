@@ -1,8 +1,6 @@
 # 🌟 mariohagi – Overview
 
 **👩‍💻 Full‑stack developer | Building financial tools & mobile apps 📊**  
-🐍 Python · 🟦 Java · 6 public repos · 1 follower  
-🌐 **https://mariohagi.tech**
 
 ---
 
@@ -20,7 +18,3 @@
 - **PHP** 2.7%
 - **HTML** 2.3%
 - **Others** …
-
-*Horizontal stacked bar chart visualises the percentages.*
-
-> **(◕‿◕) Keep it fresh – update the numbers with `github-readme-stats` badges!**
