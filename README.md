@@ -1,7 +1,7 @@
 <!-- Introduction -->
 <div align="center">
   <h1>👋 Hello There!</h1>
-  <h3>TRYING TO MAKE AN ANDROID APP</h3>
+  <h3>ANDROID APP DEVELOPER</h3>
   
   [![GitHub followers](https://img.shields.io/github/followers/sibylassana95?logo=github&style=flat-square&color=0891b2&labelColor=1c1917)](https://github.com/sibylassana95)
   ![Profile Views](https://komarev.com/ghpvc/?username=sibylassana95&style=flat-square&color=0891b2)
@@ -15,13 +15,6 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sibylassana95/sibylassana95/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-<p align="left">
-<a href="https://github.com/mariohagi">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mariohagi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mariohagi&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 <!-- Technologies -->
 <div align="center">
@@ -43,3 +36,10 @@
   #### Outils & Plateformes
   <img src="https://skillicons.dev/icons?i=git,github,gitlab" alt="Tools & Platforms" />
 </div>
+
+<p align="left">
+<a href="https://github.com/mariohagi">
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mariohagi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mariohagi&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
