@@ -37,6 +37,9 @@
   <img src="https://skillicons.dev/icons?i=git,github,gitlab" alt="Tools & Platforms" />
 </div>
 
+<!-- Stats -->
+<div align="center">
+  <h2>💻 Statistics</h2>
 <p align="left">
 <a href="https://github.com/mariohagi">
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mariohagi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
