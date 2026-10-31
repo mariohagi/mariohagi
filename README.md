@@ -1,7 +1,6 @@
 <!-- Introduction -->
 <div align="center">
   <h1>👋 Hello There!</h1>
-  <h3>ANDROID APP DEVELOPER</h3>
   
   [![GitHub followers](https://img.shields.io/github/followers/mariohagi?logo=github&style=flat-square&color=0891b2&labelColor=1c1917)](https://github.com/mariohagi)
   ![Profile Views](https://komarev.com/ghpvc/?username=mariohagi&style=flat-square&color=0891b2)
