@@ -7,13 +7,6 @@
   ![Profile Views](https://komarev.com/ghpvc/?username=sibylassana95&style=flat-square&color=0891b2)
 </div>
 
-<p align="left">
-<a href="https://github.com/mariohagi">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mariohagi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mariohagi&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
 <!-- GitHub Snake -->
 <div align="center">
   <picture>
@@ -22,6 +15,13 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sibylassana95/sibylassana95/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+<p align="left">
+<a href="https://github.com/mariohagi">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mariohagi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mariohagi&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <!-- Technologies -->
 <div align="center">
@@ -42,9 +42,4 @@
   
   #### Outils & Plateformes
   <img src="https://skillicons.dev/icons?i=git,github,gitlab" alt="Tools & Platforms" />
-</div>
-
-<!-- Footer -->
-<div align="center">
-  <p>🤝 Ouvert aux collaborations et nouvelles opportunités</p>
 </div>
