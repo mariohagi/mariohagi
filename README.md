@@ -1,6 +1,11 @@
-# 🌟 mariohagi – Overview
-
-**👩‍💻 Building mobile apps 📊**  
+<!-- Introduction -->
+<div align="center">
+  <h1>👋 Hello There!</h1>
+  <h3>TRYING TO MAKE AN ANDROID APP</h3>
+  
+  [![GitHub followers](https://img.shields.io/github/followers/sibylassana95?logo=github&style=flat-square&color=0891b2&labelColor=1c1917)](https://github.com/sibylassana95)
+  ![Profile Views](https://komarev.com/ghpvc/?username=sibylassana95&style=flat-square&color=0891b2)
+</div>
 
 <p align="left">
 <a href="https://github.com/mariohagi">
@@ -8,3 +13,38 @@
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mariohagi&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+<!-- GitHub Snake -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sibylassana95/sibylassana95/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sibylassana95/sibylassana95/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sibylassana95/sibylassana95/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<!-- Technologies -->
+<div align="center">
+  <h2>💻 Stack Technique</h2>
+  
+  #### Languages & Frameworks
+  <img src="https://skillicons.dev/icons?i=py,java,kotlin" alt="Languages & Frameworks" />
+  
+  #### Frontend & Design
+  <img src="https://skillicons.dev/icons?i=html,css" alt="Frontend & Design" />
+  
+  #### Databases
+  <p>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  </p>
+  
+  #### Outils & Plateformes
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab" alt="Tools & Platforms" />
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <p>🤝 Ouvert aux collaborations et nouvelles opportunités</p>
+</div>
